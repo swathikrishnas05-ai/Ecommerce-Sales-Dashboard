@@ -101,7 +101,7 @@ The following steps were completed:
 
 ## 🧠 Project Workflow
 
-![Project Mind Map](Images/MindMap.png)
+![Project Mind Map](Images/Mindmap.png)
 ---
 
 # 🛠 Tools & Technologies
