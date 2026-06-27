@@ -141,7 +141,7 @@ Ecommerce-Sales-Dashboard
 ├── Images
 │   ├── Dashboard.png
 │   ├──Ecommerce sales dashboard gif.gif 
-│   └──Ecommerce Sales Mindmap.xmind
+│   └──Mindmap.png
 │
 ├── Presentation
 │   └── Ecommerce-Sales-Dashboard.pptx 
