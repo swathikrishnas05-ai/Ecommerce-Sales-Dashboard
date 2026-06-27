@@ -98,7 +98,7 @@ The following steps were completed:
 
 # 🧠 Project Workflow
 
-![Mind Map](Images/Ecommerce_sales_Mindmap.png)
+![Mind Map](Images/[Ecommerce_sales_Mindmap.png](https://github.com/swathikrishnas05-ai/Ecommerce-Sales-Dashboard/blob/main/Images/Ecommerce%20Sales%20Mindmap.xmind))
 
 ---
 
