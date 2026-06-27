@@ -12,7 +12,8 @@ An interactive **Power BI Dashboard** built to analyze ecommerce sales performan
 
 # 🎥 Dashboard Demo
 
-![Dashboard Demo](Images/Ecommerce_sales_dashboard_gif.gif)
+
+![Dashboard Demo](Images/Ecommerce%20sales%20dashboard%20gif.gif))
 ---
 
 # 🎯 Project Objective
